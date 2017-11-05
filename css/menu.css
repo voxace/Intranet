@@ -95,6 +95,7 @@ max-height: 1000px;
 
 label > span {
   float: right;
+  margin-top: 4px;
   -webkit-transition: -webkit-transform .45s ease;
   transition: transform .45s ease;
 }
@@ -103,4 +104,9 @@ label > span {
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
+}
+
+.nav__list>li label {
+  padding-bottom: 2px;
+  padding-top: 2px;
 }

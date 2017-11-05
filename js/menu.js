@@ -39,14 +39,8 @@ switch(cat) {
         $("#rewards-system" ).trigger("click");
         break;
     default:
-        $("label:contains('Home')").css("font-weight", "bold" );
+        $('#home').next().css("background", "rgba(0,0,0,0.1)");
 }
-
-$.expr[":"].contains = $.expr.createPseudo(function(arg) {
-    return function( elem ) {
-        return $(elem).text().toUpperCase().indexOf(arg.toUpperCase()) >= 0;
-    };
-});
 
 var page = getUrlVars()["page"];
 $('a[href*="' + page + '"]').parent().css("background", "rgba(0,0,0,0.1)" );
