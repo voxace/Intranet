@@ -8,7 +8,7 @@
   border: 0;
   vertical-align: baseline;
   font-weight: normal;
-  font-size: 1.65rem;
+  font-size: 1.75rem;
 }
 
 menu, nav { display: block }
@@ -17,7 +17,7 @@ menu, nav { display: block }
 
 .nav a, .nav label {
   display: block;
-  padding: .35rem .85rem;
+  padding: .2rem .85rem;
   color: #fff;
   background-color: #b91d47;
   -webkit-transition: all 0.25s ease-in;
@@ -36,7 +36,7 @@ menu, nav { display: block }
 
 .group-list a, .group-list label {
   padding-left: 2rem;
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.0);
   font-size: 1.55rem;
 }
 
@@ -49,9 +49,9 @@ menu, nav { display: block }
  */
 
 .sub-group-list a, .sub-group-list label {
-  padding-left: 3.5rem;
-  background-color: rgba(0,0,0,0.2);
-  font-size: 1.45rem;
+  padding-left: 4rem;
+  background-color: rgba(0,0,0,0.0);
+  font-size: 1.4rem;
 
 }
 
@@ -64,7 +64,7 @@ menu, nav { display: block }
  */
 
 .sub-sub-group-list a, .sub-sub-group-list label {
-  padding-left: 5rem;
+  padding-left: 6rem;
   background-color: rgba(0,0,0,0.3);
 }
 
