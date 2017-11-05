@@ -25,7 +25,7 @@ menu, nav { display: block }
 }
 
 .nav a:focus, .nav a:hover, .nav label:focus, .nav label:hover {
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(0,0,0,0.3);
 }
 
 .nav label { cursor: pointer; }
@@ -56,7 +56,7 @@ menu, nav { display: block }
 }
 
 .sub-group-list a:focus, .sub-group-list a:hover, .sub-group-list label:focus, .sub-group-list label:hover {
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.3);
 }
 
 /**
@@ -65,11 +65,11 @@ menu, nav { display: block }
 
 .sub-sub-group-list a, .sub-sub-group-list label {
   padding-left: 5.7rem;
-  background-color: rgba(0,0,0,0.3);
+  background-color: rgba(0,0,0,0.0);
 }
 
 .sub-sub-group-list a:focus, .sub-sub-group-list a:hover, .sub-sub-group-list label:focus, .sub-sub-group-list label:hover {
-  background-color: rgba(0,0,0,0.4);
+  background-color: rgba(0,0,0,0.3);
 }
 
 /**

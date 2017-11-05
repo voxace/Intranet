@@ -48,7 +48,7 @@
                     <input id="subject-info-stg4" type="checkbox" hidden />
                     <label for="subject-info-stg4"><span class="fa fa-angle-right"></span> Stage 4</label>
                     <ul class="sub-group-list">
-                      <li><a href="index.php?cat=subject-info-stg4&page=english">English</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=english4">English</a></li>
                       <li><a href="index.php?cat=subject-info-stg4&page=mathematics">Mathematics</a></li>
                       <li><a href="index.php?cat=subject-info-stg4&page=science">Science</a></li>
                       <li><a href="index.php?cat=subject-info-stg4&page=indonesian">Indonesian</a></li>
@@ -67,7 +67,7 @@
                     <input id="subject-info-stg5" type="checkbox" hidden />
                     <label for="subject-info-stg5"><span class="fa fa-angle-right"></span> Stage 5</label>
                     <ul class="sub-group-list">
-                      <li><a href="index.php?cat=subject-info-stg5&page=english">English</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=english5">English</a></li>
                       <li><a href="index.php?cat=subject-info-stg5&page=mathematics">Mathematics</a></li>
                       <li><a href="index.php?cat=subject-info-stg5&page=science">Science</a></li>
                       <li><a href="index.php?cat=subject-info-stg5&page=geography">Geography</a></li>
@@ -99,7 +99,7 @@
                     <input id="subject-info-stg6" type="checkbox" hidden />
                     <label for="subject-info-stg6"><span class="fa fa-angle-right"></span> Stage 6</label>
                     <ul class="sub-group-list">
-                      <li><a href="index.php?cat=subject-info-stg6&page=english">English</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=english6">English</a></li>
                       <li><a href="index.php?cat=subject-info-stg6&page=mathematics">Mathematics</a></li>
                       <li><a href="index.php?cat=subject-info-stg6&page=science">Science</a></li>
                       <li><a href="index.php?cat=subject-info-stg6&page=hsie">HSIE</a></li>

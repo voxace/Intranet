@@ -49,5 +49,4 @@ $.expr[":"].contains = $.expr.createPseudo(function(arg) {
 });
 
 var page = getUrlVars()["page"];
-$("a:contains('" + page + "')").css("text-shadow", "0px 0px 5px black" );
-$("a:contains('" + page + "')").css("font-weight", "bold" );
+$('a[href*="' + page + '"]').parent().css("background", "rgba(0,0,0,0.1)" );
