@@ -58,7 +58,7 @@
                       <li><a href="index.php?cat=subject-info-stg4&page=music">Music</a></li>
                       <li><a href="index.php?cat=subject-info-stg4&page=pdhpe">PDHPE</a></li>
                       <li><a href="index.php?cat=subject-info-stg4&page=stem">STEM</a></li>
-                      <li><a href="index.php?cat=subject-info-stg4&page=stem">Sport</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=sport">Sport</a></li>
                     </ul>
                   </li>
 
@@ -67,15 +67,30 @@
                     <input id="subject-info-stg5" type="checkbox" hidden />
                     <label for="subject-info-stg5"><span class="fa fa-angle-right"></span> Stage 5</label>
                     <ul class="sub-group-list">
-                      <li><a href="#">English</a></li>
-                      <li><a href="#">Mathematics</a></li>
-                      <li><a href="#">Science</a></li>
-                      <li><a href="#">Indonesian</a></li>
-                      <li><a href="#">Geography</a></li>
-                      <li><a href="#">History</a></li>
-                      <li><a href="#">Technology</a></li>
-                      <li><a href="#">Music</a></li>
-                      <li><a href="#">Sport</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=english">English</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=mathematics">Mathematics</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=science">Science</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=geography">Geography</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=history">History</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=pdhpe">PDHPE</a></li>
+                      <li><a href="index.php?cat=subject-info-stg5&page=sport">Sport</a></li>
+                      <li>
+                        <input id="subject-info-stg5-electives" type="checkbox" hidden />
+                        <label for="subject-info-stg5-electives"><span class="fa fa-angle-right"></span> Electives</label>
+                        <ul class="sub-sub-group-list">
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=agriculture">Agriculture</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=commerce">Commerce</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=design">Design and Technology</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=drama">Drama</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=engineering">Engineering</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=food">Food Technology</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=film">Film and Video</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=information">Information and Software Technology</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=music">Music</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=photography">Photography</a></li>
+                          <li><a href="index.php?cat=subject-info-stg5-electives&page=visual">Visual Arts</a></li>
+                        </ul>
+                      </li>
                     </ul>
                   </li>
 

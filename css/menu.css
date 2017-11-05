@@ -17,11 +17,11 @@ menu, nav { display: block }
 
 .nav a, .nav label {
   display: block;
-  padding: .85rem;
+  padding: .35rem .85rem;
   color: #fff;
   background-color: #b91d47;
-  -webkit-transition: all .25s ease-in;
-  transition: all .25s ease-in;
+  -webkit-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
 }
 
 .nav a:focus, .nav a:hover, .nav label:focus, .nav label:hover {
@@ -29,10 +29,6 @@ menu, nav { display: block }
 }
 
 .nav label { cursor: pointer; }
-
-#home-link {
-  padding: 0;
-}
 
 /**
  * Styling first level lists items
@@ -41,6 +37,7 @@ menu, nav { display: block }
 .group-list a, .group-list label {
   padding-left: 2rem;
   background-color: rgba(0,0,0,0.1);
+  font-size: 1.55rem;
 }
 
 .group-list a:focus, .group-list a:hover, .group-list label:focus, .group-list label:hover {
@@ -52,8 +49,10 @@ menu, nav { display: block }
  */
 
 .sub-group-list a, .sub-group-list label {
-  padding-left: 4rem;
+  padding-left: 3.5rem;
   background-color: rgba(0,0,0,0.2);
+  font-size: 1.45rem;
+
 }
 
 .sub-group-list a:focus, .sub-group-list a:hover, .sub-group-list label:focus, .sub-group-list label:hover {
@@ -65,7 +64,7 @@ menu, nav { display: block }
  */
 
 .sub-sub-group-list a, .sub-sub-group-list label {
-  padding-left: 6rem;
+  padding-left: 5rem;
   background-color: rgba(0,0,0,0.3);
 }
 
@@ -81,8 +80,8 @@ menu, nav { display: block }
   height: 100%;
   max-height: 0;
   overflow: hidden;
-  -webkit-transition: max-height .5s ease-in-out;
-  transition: max-height .5s ease-in-out;
+  -webkit-transition: max-height .45s ease-in-out;
+  transition: max-height .45s ease-in-out;
 }
 
 .nav__list input[type=checkbox]:checked + label + ul {
@@ -96,8 +95,8 @@ max-height: 1000px;
 
 label > span {
   float: right;
-  -webkit-transition: -webkit-transform .65s ease;
-  transition: transform .65s ease;
+  -webkit-transition: -webkit-transform .45s ease;
+  transition: transform .45s ease;
 }
 
 .nav__list input[type=checkbox]:checked + label > span {

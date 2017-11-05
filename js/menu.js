@@ -26,6 +26,11 @@ switch(cat) {
         $("#subject-info" ).trigger("click");
         $("#subject-info-stg5" ).trigger("click");
         break;
+    case "subject-info-stg5-electives":
+        $("#subject-info" ).trigger("click");
+        $("#subject-info-stg5" ).trigger("click");
+        $("#subject-info-stg5-electives" ).trigger("click");
+        break;
     case "subject-info-stg6":
         $("#subject-info" ).trigger("click");
         $("#subject-info-stg6" ).trigger("click");
