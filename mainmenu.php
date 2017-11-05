@@ -49,14 +49,16 @@
                     <label for="subject-info-stg4"><span class="fa fa-angle-right"></span> Stage 4</label>
                     <ul class="sub-group-list">
                       <li><a href="index.php?cat=subject-info-stg4&page=english">English</a></li>
-                      <li><a href="index.php?cat=subject-info-stg4">Mathematics</a></li>
-                      <li><a href="#">Science</a></li>
-                      <li><a href="#">Indonesian</a></li>
-                      <li><a href="#">Geography</a></li>
-                      <li><a href="#">History</a></li>
-                      <li><a href="#">Technology</a></li>
-                      <li><a href="#">Music</a></li>
-                      <li><a href="#">Sport</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=mathematics">Mathematics</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=science">Science</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=indonesian">Indonesian</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=geography">Geography</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=history">History</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=technology">Technology</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=music">Music</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=pdhpe">PDHPE</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=stem">STEM</a></li>
+                      <li><a href="index.php?cat=subject-info-stg4&page=stem">Sport</a></li>
                     </ul>
                   </li>
 
