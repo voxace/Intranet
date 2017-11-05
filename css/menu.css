@@ -17,7 +17,7 @@ menu, nav { display: block }
 
 .nav a, .nav label {
   display: block;
-  padding: .2rem .85rem;
+  padding: 0rem .85rem;
   color: #fff;
   background-color: #b91d47;
   -webkit-transition: all 0.25s ease-in;
@@ -49,7 +49,7 @@ menu, nav { display: block }
  */
 
 .sub-group-list a, .sub-group-list label {
-  padding-left: 4rem;
+  padding-left: 3.8rem;
   background-color: rgba(0,0,0,0.0);
   font-size: 1.4rem;
 
@@ -64,7 +64,7 @@ menu, nav { display: block }
  */
 
 .sub-sub-group-list a, .sub-sub-group-list label {
-  padding-left: 6rem;
+  padding-left: 5.7rem;
   background-color: rgba(0,0,0,0.3);
 }
 

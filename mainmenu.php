@@ -99,15 +99,13 @@
                     <input id="subject-info-stg6" type="checkbox" hidden />
                     <label for="subject-info-stg6"><span class="fa fa-angle-right"></span> Stage 6</label>
                     <ul class="sub-group-list">
-                      <li><a href="#">English</a></li>
-                      <li><a href="#">Mathematics</a></li>
-                      <li><a href="#">Science</a></li>
-                      <li><a href="#">Indonesian</a></li>
-                      <li><a href="#">Geography</a></li>
-                      <li><a href="#">History</a></li>
-                      <li><a href="#">Technology</a></li>
-                      <li><a href="#">Music</a></li>
-                      <li><a href="#">Sport</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=english">English</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=mathematics">Mathematics</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=science">Science</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=hsie">HSIE</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=technology">Technology</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=capa">CAPA</a></li>
+                      <li><a href="index.php?cat=subject-info-stg6&page=pdhpe">PDHPE</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -119,11 +117,11 @@
                 <label for="rewards-system"><span class="fa fa-angle-right"></span> Rewards System</label>
                 <ul class="group-list">
                   <li>
-                    <li><a href="#">Thumbs Up</a></li>
-                    <li><a href="#">Merit Awards</a></li>
-                    <li><a href="#">RAP</a></li>
-                    <li><a href="#">Excursions</a></li>
-                    <li><a href="#">Special Awards</a></li>
+                    <li><a href="index.php?cat=rewards-system&page=thumbs">Thumbs Up</a></li>
+                    <li><a href="index.php?cat=rewards-system&page=merit">Merit Awards</a></li>
+                    <li><a href="index.php?cat=rewards-system&page=rap">RAP</a></li>
+                    <li><a href="index.php?cat=rewards-system&page=excursions">Excursions</a></li>
+                    <li><a href="index.php?cat=rewards-system&page=special">Special Awards</a></li>
                   </li>
                 </ul>
               </li>
