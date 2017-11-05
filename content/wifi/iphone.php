@@ -1,6 +1,6 @@
 <h1>iPhone/iPad WiFi Connection Guide</h1>
         <p>iPhone 5 and newer have the capability to connect to the School's WiFi network.</p><br/>
-        <table width="100%">
+        <table width="99%" align="center">
           <tr>
             <td width="20%">Step 1</td>
             <td width="40%"><img src="content/wifi/iphone/1.jpg" class="img-responsive"/></td>
